@@ -1,5 +1,5 @@
-# Personal VPN
-## Shadowsocks+V2Ray-plugin
+# Personal VPNAlex7
+## Shadowsocks+V2Ray-pluginAlex7
 
 Click the button below to deploy to Heroku
 
